@@ -1,0 +1,27 @@
+body{
+    background-color:#262627;
+}
+#header{
+    background-image:url("../images/pattern.jpeg");
+    text-align: center;
+    font-size:100px;
+    color: khaki;
+    font-family: Helvetica;
+}
+#brushes-header{
+    background-color: #00ff88;
+}
+#frames-header{
+    background-color: #e06748;
+}
+.purple-text{
+    color:purple;
+}
+.products{
+    color:white;
+    font-size:20px;
+    font-family:Helvertica;
+}
+#finnish-header{
+    background-color:skyblue;
+}
